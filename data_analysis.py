@@ -18,7 +18,7 @@ def calculate_store_daily_visits(data):
     """
     Calculate the store daily visits.
     """
-    data['visits_date'] = data['from_date'].dt.date
+    data['visits_date'] = data['from_date'].dt.strftime('%Y-%m-%d')
     store_daily_visits = data.groupby('visits_date')['count'].sum().reset_index(name='store_daily_visits')
     return store_daily_visits
 
