@@ -1,3 +1,7 @@
 pandas>=2.1.0
-great-expectations>=0.18.7
 pyarrow>=14.0.0
+matplotlib
+scikit-learn
+statsmodels
+seaborn
+notebook
