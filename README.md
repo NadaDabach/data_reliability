@@ -1,6 +1,6 @@
 # Data quality/reliability test
 
-This repository contains code for analyzing store visit data using Python with Pandas, Matplotlib, and Dash. The analysis includes visualization of store daily visits, gender and age repartitions, and identification of errors in the dataset.
+This repository contains code for analyzing store visits data using Python with Pandas, Matplotlib, and Dash. The analysis includes visualization of store daily visits, gender and age repartitions, and identification of errors in the dataset.
 
 ## 📝 Prerequisites
 
