@@ -19,7 +19,3 @@ pip install -r requirements.txt
 • assets : Directory containing png images of the plots generated during the analysis.
 
 • dataset : Directory containing the csv files.
-
-
-
-
